@@ -5,9 +5,9 @@ int main() {
     float a;
     float b;
 
-    cout << "Wprowadź liczbę rzeczywistą a " << endl;
+    cout << "Wprowadź liczbę całkowitą a " << endl;
     cin >> a;
-    cout << "Wprowadź liczbę rzeczywistą b " << endl;
+    cout << "Wprowadź liczbę całkowitą b " << endl;
     cin >> b;
 
     cout << a << "+" << b << "=" << a+b << endl;
