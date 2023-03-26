@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    float a;
-    float b;
+    int a;
+    int b;
 
     cout << "Wprowadź liczbę całkowitą a " << endl;
     cin >> a;
@@ -11,9 +11,7 @@ int main() {
     cin >> b;
 
     cout << a << "+" << b << "=" << a+b << endl;
-    cout << a << "-" << b << "=" << a-b << endl;
-    cout << a << "*" << b << "=" << a*b << endl;
-    cout << a << "/" << b << "=" << a/b << endl;
+    
 
     return 0;
 }
