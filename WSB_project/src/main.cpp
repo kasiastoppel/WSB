@@ -9,7 +9,7 @@ int main() {
     cout << "Wprowadź liczbę rzeczywistą b " << endl;
     cin >> b;
 
-    cout << "Wynik dodawania to "<< add(a,b) << endl;
+    cout << "Wynik dodawania wynosi "<< add(a,b) << endl;
    
 
 
