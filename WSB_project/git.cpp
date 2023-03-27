@@ -11,9 +11,9 @@ int main() {
     int a;
     int b;
 
-    cout << "Wprowadź liczbę naturalną a " << endl;
+    cout << "Wprowadź liczbę rzeczywistą a " << endl;
     cin >> a;
-    cout << "Wprowadź liczbę naturalną b " << endl;
+    cout << "Wprowadź liczbę rzeczywistą b " << endl;
     cin >> b;
 
     cout << "Wynik dodawania to "<< add(a,b) << endl;
