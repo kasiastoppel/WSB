@@ -7,9 +7,9 @@ int main() {
     int a;
     int b;
 
-    cout << "Wprowadź liczbę rzeczywistą a " << endl;
+    cout << "Wprowadź liczbę naturalną a " << endl;
     cin >> a;
-    cout << "Wprowadź liczbę rzeczywistą b " << endl;
+    cout << "Wprowadź liczbę naturalną b " << endl;
     cin >> b;
 
     cout << a << "+" << b << "=" << a+b << endl;
